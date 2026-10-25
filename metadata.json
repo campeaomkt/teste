@@ -1,0 +1,6 @@
+{
+  "name": "Colégio Claretiano - Matrículas e Formação Integral",
+  "description": "Landing page de alta conversão do Colégio Claretiano: metodologia com Sistema Anglo, inovação maker, valores humanistas e condições exclusivas de pré-matrícula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
